@@ -1,8 +1,8 @@
 @font-face
 {
     font-family: 'Ailerons';
-    src: url('./fonts/subset-Ailerons-Regular.woff2') format('woff2'),
-        url('./fonts/subset-Ailerons-Regular.woff') format('woff');
+    src: url(assets/fonts/53123d263cb63e4597b2.woff2) format('woff2'),
+        url(assets/fonts/1bb85400b660a657542f.woff) format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: block;
@@ -66,3 +66,5 @@ body
     -moz-osx-font-smoothing: grayscale;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
 }
+
+/*# sourceMappingURL=main.css.map*/
